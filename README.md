@@ -9,7 +9,7 @@
 
 ---
 
-**Shipping software that scales. Exploring the intersection of AI, Cloud Security, and Quantum-Safe Cryptography.**
+**Shipping software that scales. Specializing in Fair Machine Learning and Scalable AI Systems.**
 
 </div>
 
@@ -17,7 +17,7 @@
 
 I am a pre-final year Computer Science student specializing in software engineering and research. My focus is on building high-impact tools and scalable systems. As the **Vice President of the Smart Tech Club**, I bridge the gap between academic research and real-world software deployment.
 
-- 🔭 **Currently working on**: Quantum-resistant cloud storage and RAG-based AI pipelines.
+- 🔭 **Currently working on**: [FairConformalFinance](https://github.com/aarushdubey/fair-conformal-finance) — Research on fair conformal classification for financial transactions (AISTATS 2027).
 - 🎓 **Education**: B.Tech in Computer Science, SRM University AP.
 - ⚡ **Fun Fact**: I love building tools that solve my own problems first, then scaling them for others.
 
@@ -52,7 +52,8 @@ I am a pre-final year Computer Science student specializing in software engineer
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [Post-Quantum-Secure-Cloud-Storage](https://github.com/aarushdubey/Post-Quantum-Secure-Cloud-Storage-) | A secure storage system implementing quantum-resistant cryptography to protect against future threats. | C++, Python |
+| [Fair-Conformal-Finance](https://github.com/aarushdubey/fair-conformal-finance) | Research on balancing coverage and set-size equity in financial ML. Submitted to AISTATS 2027. | Python, XGBoost, LightGBM |
+| [Post-Quantum-Secure-Cloud-Storage](https://github.com/aarushdubey/Post-Quantum-Secure-Cloud-Storage-) | A secure storage system implementing quantum-resistant cryptography. (Completed Internship) | C++, Python |
 | [ConvoShield-AI](https://github.com/aarushdubey/ConvoShield-AI) | An AI-powered conversational tool designed for safety and privacy. | JavaScript, AI |
 | [VisionOps](https://github.com/aarushdubey/VisionOps) | Computer Vision operations tool for streamlined image processing. | Python, OpenCV |
 

@@ -31,6 +31,7 @@ I am a pre-final year Computer Science student specializing in cloud-native syst
 *Cloud Native Computing Foundation (CNCF) service mesh and cloud-native management plane.*
 
 - **[PR #22926](https://github.com/meshery/meshery/pull/22926) (Merged 🎉)**: `[mesheryctl]` Propagated errors and resolved silent failures and nil dereference panics in component registry publishing with Google Sheets integration; authored comprehensive regression tests in Go.
+- **[PR #22973](https://github.com/meshery/meshery/pull/22973)**: `[mesheryctl]` Prevented empty-slice boundary panics in command suggestions and expanded Levenshtein distance test suites covering typos and Unicode runes.
 - **[PR #22824](https://github.com/meshery/meshery/pull/22824) (Approved)**: `[mesheryctl]` Prevented CLI hang when deleting the active context and normalized `--set` flag behavior.
 - **[PR #22588](https://github.com/meshery/meshery/pull/22588)**: `[mesheryctl]` Enforced consistent timeout configurations across HTTP client operations for improved CLI resilience.
 

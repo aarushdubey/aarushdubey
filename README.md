@@ -38,6 +38,7 @@ I am a pre-final year Computer Science student specializing in cloud-native syst
 ### 🤗 [Hugging Face — Transformers](https://github.com/huggingface/transformers)
 *The de facto standard library for state-of-the-art Natural Language Processing and Computer Vision.*
 
+- **[PR #50475](https://github.com/huggingface/transformers/pull/50475)**: `[Models]` Fixed Whisper and BART `torch.compile(fullgraph=True)` training by gating LayerDrop random tensor draws; authored regression tests.
 - **[PR #50464](https://github.com/huggingface/transformers/pull/50464)**: `[Image Processing]` Fixed out-of-range alpha compositing for 4-channel float32 images in `convert_to_rgb` across NumPy and Torchvision backends; added unit tests.
 - **[PR #50416](https://github.com/huggingface/transformers/pull/50416)**: `[Trainer]` Added support for arbitrary Python dataclass objects in `_prepare_input` for complex multi-modal training pipelines.
 - **[PR #50355](https://github.com/huggingface/transformers/pull/50355)**: Propagated `fsdp_config['ignored_modules']` to accelerate FSDP plugin execution.
